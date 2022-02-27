@@ -8,7 +8,7 @@ h1{
 .nc{
     color:rgb(252, 182, 54);
 }
-section{
+.flx{
     display: flex;
 }
 img{
