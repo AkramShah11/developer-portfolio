@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto Serif', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.nc{
+    color:rgb(252, 182, 54);
+}
+section{
+    display: flex;
+}
+img{
+    width: 90%;
+}
+.para{
+    width: 50%;
+    padding-left: 5%;
+    text-align: justify;
+}
+.imgs{
+    width: 50%;
+    padding-left: 10%;
+}
+.hire{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
