@@ -7,15 +7,24 @@ h1{
 }
 .nc{
     color:rgb(252, 182, 54);
+    
+    
+}
+.nc1{
+    color:rgb(252, 182, 54);
+    font-size: 18px;
+    
 }
 .flx{
     display: flex;
+    padding-bottom: 100px;
 }
 img{
     width: 90%;
 }
 .para{
     width: 50%;
+    padding-top: 15px;
     padding-left: 5%;
     text-align: justify;
 }
@@ -54,6 +63,7 @@ img{
     background-repeat: no-repeat;
     background-position: right;
     
+    
 }
 .resumebutton{
     text-decoration: none;
@@ -62,4 +72,42 @@ img{
     background-image: linear-gradient(tomato,rgb(248, 109, 29));
     padding: 15px 30px;
     border-radius: 5px;
+    
 }
+.boxpara{
+    height: 390px;
+    width: 600px;
+    padding-left: 55px;
+    text-align: left;
+    margin-left: 35px;
+    margin-right: 35px;
+    
+    
+
+}
+.expe{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.n1{
+    font-size: 15px;
+}
+
+.boxshadow{
+    box-shadow: 10px 5px 15px 15px rgba(119, 117, 117, 0.63);
+    border-radius: 6px;
+    border-left: 10px solid;
+    border-image: linear-gradient(tomato, salmon);
+    border-image-slice: 4;
+}
+
+#boxy{
+    box-shadow: 10px 5px 15px 15px rgba(119, 117, 117, 0.63);
+    border-radius: 6px;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 4;
+}
+
